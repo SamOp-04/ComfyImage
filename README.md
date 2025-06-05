@@ -10,7 +10,7 @@ Image Generation: ComfyUI with Stable Diffusion + Flux workflows
 
 Models: Stable Diffusion XL, Flux, etc.
 
-Deployment: Localhost or self-hosted on cloud (AWS EC2 or similar)
+Deployment: Localhost 
 
 🚀 Features
 🌠 Generate high-quality images using ComfyUI workflows
