@@ -1,0 +1,148 @@
+Samad Sama
+
+
+samasamad04@gmail.com
+9879864438
+Anand, India
+https://linkedin.com/in/samad-sama-04apr
+https://github.com/SamOp-04
+
+
+
+------------------------
+CS Student | Cybersecurity • Model Training • Game Dev
+
+
+------------------------
+Computer Science student with a strong focus on Cybersecurity, Web, and Game Development. Proficient in MERN Stack, Java, C++, Python, and AI-driven solutions. Actively building scalable applications and games, applying hands-on experience to real-world challenges.
+
+
+Education
+------------------------
+Student
+Charusat, Depstar
+07/2023 - 06/2027
+Anand, Gujarat
+Courses
+- B.Tech in Computer Science and Engineering 
+
+
+
+
+
+Work Experience
+------------------------
+DevOps Intern
+Tridhya Tech Ahemdabad
+05/2025 - Present
+Achievements/Tasks
+
+
+
+
+
+
+Skills
+------------------------
+-Programming Languages: JavaScript, Python, Java, C++, C, C#
+-Web & Backend Frameworks: MERN Stack (MongoDB, Express.js, React, Node.js), FastAPI
+-DevOps & Infrastructure: AWS, Docker, Kubernetes, Apache, Nginx, Firebase, Git
+-Game Development: Unity, Blender
+-Development Tools: Android Studio, VS Code, Postman
+-Soft Skills: Problem Solving, Team Collaboration, Self-Learning
+
+
+
+Personal Projects
+------------------------
+smkPIE | API with AI model for Cyber Response
+01/2025 - 04/2025
+- Built an AI-powered API for real-time cybersecurity threat detection and automated response, enhancing incident analysis speed and mitigation efficiency. 
+- https://github.com/SamOp-04/smkpie 
+
+
+Sports booking | MERN Stack
+08/2024 - 12/2024
+- Created an e-commerce platform for booking sports complexes. 
+- Ensured responsive design for seamless user experience across devices. 
+- https://sportsbooking-eight.vercel.app/ . 
+
+
+Cultural India | Interactive Web Application
+09/2024 - 10/2024
+- Developed a cultural showcase platform featuring interactive maps and 3D monuments. 
+- Focused on immersive UI/UX to highlight India’s rich heritage. 
+- https://visioneers.vercel.app/ . 
+
+
+Profile Verse | MERN Stack
+12/2024 - 01/2025
+- Built a customizable profile-hosting platform with user dashboards. 
+- Emphasizing modern UI/UX design for content display and responsiveness. 
+- https://github.com/SamOp-04/Profile_Verse 
+
+
+2D Shooter Game | Unity
+01/2025 - 03/2025
+- Developed a 2D shooter game with single-player and LAN-based multiplayer using Unity and C#. 
+
+
+CollabDitor | Yjs Realtime Editor
+05/2025 - 05/2025
+- Built a real-time collaborative editor using Yjs and WebSockets with presence tracking, code synchronization, and low-latency updates. 
+- https://github.com/SamOp-04/Collabditor 
+
+
+Image Generative Model | ComfyUI & SDXL
+06/2025 - Present
+- Creating an AI Model to generate images based on prompt using ComfyUI workflow and SDXL models. 
+
+
+
+
+
+Organizations
+------------------------
+Organization Name
+
+
+
+
+
+Hobbies
+------------------------
+Exploring
+
+
+Learning New Gen Technologies
+
+
+Football
+
+
+Competitive gaming
+
+
+
+
+
+Languages
+------------------------
+-C++- (80/100)
+-Java- (100/100)
+-Python- (100/100)
+-C#- (40/100)
+-Javascript- (100/100)
+
+
+
+Interests
+------------------------
+-Cybersecurity (Penetration Testing, Vulnerability Assessment)
+-AIML (Training and testing)
+-Application and Web Development
+-DevOps
+-Game Design and Development
+
+
+
